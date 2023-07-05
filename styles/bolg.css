@@ -2,4 +2,12 @@ div{
     color: tomato;
     background-color: brown;
     margin-bottom: 10px;
+    padding: 10px;
+}
+.code{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    color: aqua;
 }
