@@ -11,3 +11,10 @@ div{
     background-color: blue;
     color: aqua;
 }
+h3{
+    color:wheat;
+background-color:red;
+margin: 6px;
+padding: 10px;
+border-radius: 15px;
+}
