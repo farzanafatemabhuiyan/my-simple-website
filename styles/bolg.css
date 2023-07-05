@@ -13,8 +13,11 @@ div{
 }
 #love{
     color:wheat;
-background-color:red;
+background-color:blanchedalmond;
 margin: 6px;
 padding: 10px;
 border-radius: 15px;
+}
+h2{
+    width: 100px;
 }
